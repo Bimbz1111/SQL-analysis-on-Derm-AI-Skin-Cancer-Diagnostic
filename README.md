@@ -1,3 +1,6 @@
+<img width="517" alt="image" src="https://github.com/user-attachments/assets/adb611e6-999b-4182-9880-823aa931c6c9" />
+
+<img width="544" alt="image" src="https://github.com/user-attachments/assets/80f9c387-9fc6-4384-ad1c-a4a5ec53613c" />
 # SQL-ANALYSIS-ON-DERM-AI-DIAGNOSTIC
 DERM AI Diagnostic contacted us to develop an SQL analysis to provide data driven insights that empowers medical professionals in daignosing and treating skin lesions more accurately enhance early skin cancer detection.
 WHAT WE DID
